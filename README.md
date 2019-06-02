@@ -3,7 +3,7 @@
 
 ---
  #### Demo :
- Click here to access the [demo](https://markdown-editor.000webhostapp.com/)
+ Click here to access the [demo](https://markdown-editor.000webhostapp.com/).
 
 ---
  #### Features :
