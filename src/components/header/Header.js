@@ -11,7 +11,7 @@ let downloadMarkdown = () => {
 
 const Header = () => {
   return(
-    <div className='header'>
+    <header>
       <div className='logo'>
         <img src={logo} alt='logo'/>
       </div>
@@ -19,8 +19,8 @@ const Header = () => {
       <div className='content-option-md'>
         <div className='option-header'>
           <a href='https://www.markdownguide.org/basic-syntax/' title="MarkDown User Guide" className='buttonNav-md' target='_blank' rel='noopener noreferrer'><FontAwesomeIcon icon={faQuestionCircle} /></a>
-          </div>
-          <div className='option-header'>
+        </div>
+        <div className='option-header'>
           <button
             title="Download your document in MarkDown format"
             className='buttonNav-md'
@@ -30,7 +30,7 @@ const Header = () => {
             </button>
         </div>
       </div>
-    </div>
+    </header>
   )
 }
 

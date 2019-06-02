@@ -67,3 +67,31 @@
     width: 100%
   }
 }
+
+@media screen and (max-width: 800px) {
+  .content-editor-md{
+    padding: 0px;
+    width: 95%;
+  }
+  .editable textarea{
+    width: 75%;
+  }
+  .editable, .render h2 {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .render{
+    padding: 50px 20px 100px 20px;
+  }
+
+  .editable .row{
+  width: 80%;
+  }
+
+  .editable .row button{
+  margin: 0 42px;
+  }
+
+}
