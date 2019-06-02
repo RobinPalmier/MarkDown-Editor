@@ -21,7 +21,7 @@
 ---
 #### Get Started : &nbsp;
 
- `$ git clone https://github.com/RobinPalmier/nodeJS-server-from-scratch.git`
+ `$ git clone https://github.com/RobinPalmier/MarkDown-Editor.git`
 &nbsp;
 
  `$ npm install`&nbsp;&nbsp;&nbsp;or&nbsp;&nbsp;&nbsp;`$ yarn install`&nbsp;
